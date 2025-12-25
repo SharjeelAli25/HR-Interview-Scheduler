@@ -1,0 +1,10 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+langchain>=0.2.0
+langchain-groq>=1.0.0
+langgraph
+pydantic==2.10.4
+aiosqlite==0.19.0
+groq
+websockets==12.0
